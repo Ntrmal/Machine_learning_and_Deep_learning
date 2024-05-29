@@ -6,6 +6,7 @@ This project aims to predict the final scores of IPL (Indian Premier League) cri
 The dataset consists of the following columns:
 
 mid: Match ID
+
 date: Date of the match
 venue: Venue of the match
 bat_team: Batting team
