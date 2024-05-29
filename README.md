@@ -8,23 +8,41 @@ The dataset consists of the following columns:
 mid: Match ID
 
 date: Date of the match
+
 venue: Venue of the match
+
 bat_team: Batting team
+
 bowl_team: Bowling team
+
 batsman: Batsman on strike
+
 bowler: Bowler delivering the ball
+
 runs: Runs scored on the current ball
+
 wickets: Total number of wickets fallen till the current ball
+
 overs: Number of overs completed
+
 runs_last_5: Runs scored in the last 5 overs
+
 wickets_last_5: Wickets fallen in the last 5 overs
+
 striker: Batsman on strike's runs
+
 non-striker: Runs scored by the non-striker
+
 total: Total score at the end of the innings
+
 Project Structure
+
 data/: Contains the dataset files.
+
 notebooks/: Jupyter notebooks for data exploration, preprocessing, model training, and evaluation.
+
 models/: Serialized machine learning models.
+
 README.md: Project overview and instructions.
 
 # Usage
